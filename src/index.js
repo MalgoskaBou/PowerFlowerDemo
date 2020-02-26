@@ -17,10 +17,10 @@ const Root = () => {
   return (
     <ApolloProvider client={client}>
       <Router>
-        <Route exact path="/MalgoskaBou/PowerFlowerDemo">
+        <Route exact path="/PowerFlowerDemo">
           <LoginForm />
         </Route>
-        <PrivateRoute path="/MalgoskaBou/PowerFlowerDemo/dashboard">
+        <PrivateRoute path="/PowerFlowerDemo/dashboard">
           <Dashboard />
         </PrivateRoute>
       </Router>
