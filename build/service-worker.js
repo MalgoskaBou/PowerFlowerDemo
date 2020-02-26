@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PowerFlowerDemo/precache-manifest.c3bb121ae64573e6bc974bd4883b07f0.js"
+  "/PowerFlowerDemo/precache-manifest.efceeb16d24731a9d9e8c3255a6da33d.js"
 );
 
 self.addEventListener('message', (event) => {
