@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  font-size: 62.5%;
+}
+
+/* Ugly trick to remove highlite of autofill inputs on chrome */
+input:-webkit-autofill {
+  animation: autofill 0.1s both;
+}
+
+@keyframes autofill {
+  0%,
+  100% {
+    color: white;
+    background: transparent;
+  }
+}
