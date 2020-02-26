@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PowerFlowerDemo/static/css/main.dcdaa742.chunk.css",
+    "main.js": "/PowerFlowerDemo/static/js/main.854b7357.chunk.js",
+    "main.js.map": "/PowerFlowerDemo/static/js/main.854b7357.chunk.js.map",
+    "runtime-main.js": "/PowerFlowerDemo/static/js/runtime-main.f9b4a150.js",
+    "runtime-main.js.map": "/PowerFlowerDemo/static/js/runtime-main.f9b4a150.js.map",
+    "static/js/2.9872f2a6.chunk.js": "/PowerFlowerDemo/static/js/2.9872f2a6.chunk.js",
+    "static/js/2.9872f2a6.chunk.js.map": "/PowerFlowerDemo/static/js/2.9872f2a6.chunk.js.map",
+    "index.html": "/PowerFlowerDemo/index.html",
+    "precache-manifest.c3bb121ae64573e6bc974bd4883b07f0.js": "/PowerFlowerDemo/precache-manifest.c3bb121ae64573e6bc974bd4883b07f0.js",
+    "service-worker.js": "/PowerFlowerDemo/service-worker.js",
+    "static/css/main.dcdaa742.chunk.css.map": "/PowerFlowerDemo/static/css/main.dcdaa742.chunk.css.map",
+    "static/js/2.9872f2a6.chunk.js.LICENSE": "/PowerFlowerDemo/static/js/2.9872f2a6.chunk.js.LICENSE",
+    "static/media/email.svg": "/PowerFlowerDemo/static/media/email.fa50e726.svg",
+    "static/media/icon_mail.svg": "/PowerFlowerDemo/static/media/icon_mail.c77bfdea.svg",
+    "static/media/icon_password.svg": "/PowerFlowerDemo/static/media/icon_password.38816da4.svg",
+    "static/media/password.svg": "/PowerFlowerDemo/static/media/password.c7a2568e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b4a150.js",
+    "static/js/2.9872f2a6.chunk.js",
+    "static/css/main.dcdaa742.chunk.css",
+    "static/js/main.854b7357.chunk.js"
+  ]
+}
